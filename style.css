@@ -65,7 +65,7 @@ button:hover {
 
 .desktop-photo
 {
-    width: 100%;
+    display: none;
 }
 
 .mobile-photo
