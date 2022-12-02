@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/AnshikaBangar/Product-Preview-Card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:https://anshikabangar.github.io/Product-Preview-Card/
 
 ## My process
 
